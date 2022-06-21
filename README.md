@@ -1,35 +1,24 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174770992-1d81aca2-0cfc-4db9-a570-eec8c897ca00.png" />
+  <img src="https://user-images.githubusercontent.com/91092610/174794137-3507bdf8-4c29-49b7-b5bd-9a399e530650.png" />
 </p>
 <h1 align="center">
-   Lemin
+   My_Sokoban
 </h1>
 
 ---
 
 ## Motivation : 
 
-Le Lemin est un projet de milieu d'année à Epitech à réaliser à 4, dont le principe est de créer un algorithme qui va calculer la manière la plus rapide pour que des fourmis arrive d'une certaine zone de la fourmilière à une autre, sachant qu'elles ne peuvent pas être plus d'une dans une "pièce" de la foumilière en même temps.
+Le **My_Sokoban** est un projet de début/milieu d'année à Epitech à réaliser en solo, dont le principe est de recréer le jeu du sokoban dans un terminal à l'aide de la librairie ncurses.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91092610/174794448-c62dcbf3-7480-4efa-899a-b7b2e46e1185.png" />
+</p>
 
 ---
 
 ## Description :
 
-La fourmilière est donc représenté avec des pièces, connecté entre elles par des tunnels. Si deux pièces sont relié par un tunnel, alors une fourmi peut naviguer entre celles-ci.
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174772818-a1645ccd-dd43-405d-9115-6b88a4f94210.png">
-</p>
-Le programme va tout d'abord prendre un fichier contenant plusieurs informations en paramètre, et va l'analyser afin de ne garder que ce qu'il souhaite : 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174781673-d3e96357-fca7-47b4-8070-3cd3afe871a2.png">
-</p>
-Dans cette exemple, le premier chiffre correspond au nombre de fourmi, les lignes commençant par un "#" sont des commentaires, celles commençant par "##" sont les pièces de départ et d'arrivée. Pour finir les ligne avec trois chiffres sont les pièces (le premier chiffre correspond au nom de la piece et les deux suivants sont sa position) et les lignes contenant un "-" sont les tunnels qui indique les passages entre les pièces (les chiffres avant et après le "-" sont les noms des pièces).
 
-Après cela, le but du programme va donc être d'afficher les données recupérées dans un certain ordre, suivis de tout les mouvements nécessaires afin que les fourmis atteignent leur destination.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174784133-95516d73-df2e-4450-bf3d-541f4dc39b25.png">
-</p>
 
 ---
 
