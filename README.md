@@ -56,8 +56,11 @@ $ ./my_sokoban map
 
 ## Comment l'utiliser ? : 
 
-Notre lemin possède un système de parsing complet mais il ne possède malheureusement pas encore l'algorithme qui va permettre de calculer l'itinéraire des fourmis.
+Pour lancer le **My_Sokoban**, il suffit d'indiquer dans la ligne d'exécution du binaire une map texte contenant :
+- Le même nombre de "X" que de "O"
+- Un seul "P"
+- Aucun autre caractère que des "#" ou des espaces
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174785200-495420df-b660-46d6-821c-bf4df6e19674.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174799176-a45a4b49-f91e-4a41-8a89-fac3bc0fa187.png">
 </p>
