@@ -18,7 +18,12 @@ Le **My_Sokoban** est un projet de début/milieu d'année à Epitech à réalise
 
 ## Description :
 
-
+Le jeu doit être jouable avec les flêches directionnel du clavier et doit reproduire le jeu du sokoban avec quelques différences : 
+- Les cases ou le joueur peut se déplacer doivent être représenté par des espaces
+- Les murs par des "#"
+- Les boîtes par des "X"
+- Les cases ou le joueur doit amener les boîtes par des "O"
+- Le joueur par un "P"
 
 ---
 
@@ -41,10 +46,10 @@ $ make
 ```
 Le binaire se trouvera alors à la racine du projet, et il vous suffira de le lancer comme ceci : 
 ```bash
-$ ./my_sokoban
+$ ./my_sokoban map
 ```
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174794794-5f27511f-59a9-4427-820d-fbb17d7c8cd7.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174798124-a53159a7-4fc7-4645-b007-1fbc0318c9ce.png">
 </p>
 
 ---
