@@ -24,7 +24,10 @@ Le **My_Sokoban** est un projet de début/milieu d'année à Epitech à réalise
 
 ## Fonctions Autorisées : 
 
-- read, write, malloc, free, getline
+- malloc, free, exit
+- (f)open, (f)close, (f)read, (f)write
+- getline, ioctl, usleep, sigaction, signal
+- stat, lstat, fstat
 
 ---
 
@@ -32,16 +35,16 @@ Le **My_Sokoban** est un projet de début/milieu d'année à Epitech à réalise
 
 Ouvrez un terminal et dirigez vous ou vous souhaitez que le projet soit installé, puis exécutez les commandes suivantes : 
 ```bash
-$ git clone git@github.com:DoctypeHonoo/lemin.git
-$ cd lemin
+$ git clone git@github.com:DoctypeHonoo/my_sokoban.git
+$ cd my_sokoban
 $ make
 ```
 Le binaire se trouvera alors à la racine du projet, et il vous suffira de le lancer comme ceci : 
 ```bash
-$ ./lem_in [fichier]
+$ ./my_sokoban
 ```
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174784855-25ca060b-0305-43a5-ae40-384112362879.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174794794-5f27511f-59a9-4427-820d-fbb17d7c8cd7.png">
 </p>
 
 ---
