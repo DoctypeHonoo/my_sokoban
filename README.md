@@ -63,4 +63,5 @@ Pour lancer le **My_Sokoban**, il suffit d'indiquer dans la ligne d'exécution d
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91092610/174799176-a45a4b49-f91e-4a41-8a89-fac3bc0fa187.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174799379-ab9a3744-7a6e-4550-9d3d-5057d72e9c81.png">
 </p>
